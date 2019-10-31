@@ -17,7 +17,7 @@
 
 	<!-- Add the TicketMonster cloud app to the domain whitelist. Domains are 
 		assumed blocked unless set otherwise. -->
-	<access origin="http://ticketmonster-jdf.rhcloud.com" />
+	<access origin="http://ticketmonster-reat-app-rest1.b9ad.pro-us-east-1.openshiftapps.com.rhcloud.com" />
 	<preference name="fullscreen" value="true" />
 	<preference name="webviewbounce" value="true" />
 	<preference name="DisallowOverscroll" value="true" />
